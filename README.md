@@ -37,3 +37,5 @@ maste-master все тоже самое только каждый узел ст�
 
 ---
 ![img](https://github.com/Dokukin1/Rep/blob/main/01_settings_mysql.png)
+![img](https://github.com/Dokukin1/Rep/blob/main/02_master_status.png)
+![img](https://github.com/Dokukin1/Rep/blob/main/02_replica_status.png)
